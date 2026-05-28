@@ -1,0 +1,14 @@
+# 长期记忆和审计日志（运行时生成）
+long_term_memory.json
+audit.log
+
+# Python
+__pycache__/
+*.pyc
+
+# 环境变量
+.env
+
+# IDE
+.vscode/
+.idea/
